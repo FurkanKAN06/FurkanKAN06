@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINIZ&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FurkanKAN06&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
